@@ -1,0 +1,31 @@
+
+
+h1{
+    text-align: center;
+    font-family: 'Halant', serif;
+
+}
+
+th{
+    font-family: 'Halant', serif;
+   font-size:25px;
+}
+
+td{
+    font-family: 'Manrope', sans-serif;
+    font-size: 19px;
+
+}
+
+table{
+    margin-left: 31%;
+   
+}
+
+table, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  padding-right: 60px;
+  
+}
